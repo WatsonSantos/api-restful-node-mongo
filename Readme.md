@@ -18,7 +18,7 @@ Antes de tudo, você preccida ter instalado na sua máquina as seguintes ferrame
 
 ```bash
 # Clone este repositório
-$ git clone ........
+$ git clone https://github.com/WatsonSantos/api-restful-node-mongo
 
 # Instale as dependências
 $ npm install
@@ -41,5 +41,5 @@ Na construçãoda aplicação foram utilizadas as seguintes tecnologias:
 
 ### Autor
 Watson dos Santos🚀
-📩: watasontavares72@gmail.com
+📩: watsontavares72@gmail.com
 📱: +239 9804289
