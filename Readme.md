@@ -1,5 +1,5 @@
 <h1 align="center">API RESTFUL - NODE.JS</h1>
-<p align="center">Este projeto disz resipeito a um projeto de uma API Rest Full utilizando o Node.js e o banco de dados MongoDB</p>
+<p align="center">Este projeto diz resipeito a um projeto de uma API Rest Full utilizando o Node.js e o banco de dados MongoDB</p>
 <h4 align="center">- Terminado! -</h4>
 
 ### Features
